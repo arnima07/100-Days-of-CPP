@@ -1,4 +1,4 @@
-#day_1_ques 1
+//day_1_ques_1
 
 #include <iostream>
 using namespace std;

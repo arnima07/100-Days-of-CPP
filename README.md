@@ -21,16 +21,15 @@ This repository documents my journey of learning C++ from the basics to advanced
 100-Days-of-Code/
 │
 ├── Day-01/
-│   ├── README.md
-│   ├── sum_of_two_num.cpp
-│   └── product_of_two_num.cpp
-│
 ├── Day-02/
 ├── Day-03/
+├── ...
+├── Day-100/
 │
 ├── README.md
 └── .gitignore
 ```
+
 ---
 
 ## 📅 Progress

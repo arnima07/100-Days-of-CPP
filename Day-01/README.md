@@ -13,6 +13,8 @@
 
 - ✅ Sum of Two Numbers
 - ✅ Product of Two Numbers
+- ✅ Average of Three Numbers
+- ✅ Area of Rectangle
 
 ## What I Learned
 

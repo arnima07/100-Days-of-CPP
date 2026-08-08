@@ -37,7 +37,7 @@ This repository documents my journey of learning C++ from the basics to advanced
 | Day | Topics | Status |
 |-----|--------|--------|
 | Day 1 | Setup, Input/Output, Variables, Arithmetic Operations | ✅ Completed |
-| Day 2 | Data Types & Operators | ⏳ Coming Soon |
+| Day 2 | Data Types & Operators |✅ Completed|
 | Day 3 | Conditional Statements | ⏳ Coming Soon |
 
 ---

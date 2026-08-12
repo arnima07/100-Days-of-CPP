@@ -40,7 +40,7 @@ This repository documents my journey of learning C++ from the basics to advanced
 | Day 2 | Data Types & Operators |✅ Completed|
 | Day 3 | Conditional Statements | ✅ Completed |
 | Day 4 | Basic pattern questions | ✅ Completed |
-| Day 5 |                           |             |
+| Day 5 | Advanced Pattern Programming | ✅ Completed |
 ---
 
 ## 🛠 Technologies

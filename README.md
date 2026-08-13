@@ -41,6 +41,10 @@ This repository documents my journey of learning C++ from the basics to advanced
 | Day 3 | Conditional Statements | ✅ Completed |
 | Day 4 | Basic pattern questions | ✅ Completed |
 | Day 5 | Advanced Pattern Programming | ✅ Completed |
+| Day 6 | Advanced Pattern Programming | ✅ Completed |
+| Day 7 | Basics of Arrays |       |
+
+
 ---
 
 ## 🛠 Technologies

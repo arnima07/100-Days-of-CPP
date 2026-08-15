@@ -42,7 +42,13 @@ This repository documents my journey of learning C++ from the basics to advanced
 | Day 4 | Basic pattern questions | ✅ Completed |
 | Day 5 | Advanced Pattern Programming | ✅ Completed |
 | Day 6 | Advanced Pattern Programming | ✅ Completed |
-| Day 7 | Basics of Arrays |       |
+| Day 7 | Introduction to Arrays | ✅ Completed |
+| Day 8 |                        |               |
+| Day 9 |                        |               |
+| Day 10 |                        |               |
+| Day 11 |                        |               |
+| Day 12 |                        |               |
+| Day 13 |                        |               |
 
 
 ---
